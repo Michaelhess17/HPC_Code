@@ -9,8 +9,8 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=64
-#SBATCH --time=5:00:00
-#SBATCH --mem=300GB
+#SBATCH --time=16:00:00
+#SBATCH --mem=500GB
 
 module load matlab
 matlab -batch "Modol_script(\"$1\")"

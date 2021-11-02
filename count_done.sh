@@ -9,7 +9,7 @@ do
     else 
         continue
     fi
-    if [ $(cat output_"$var".txt | wc -l) -ge 2018 ]
+    if [ $(cat output_"$var".txt | grep -v Warning | grep -v In | grep -v will | wc -l) -ge 2017 ]
     then
         ((counter++))
     else
@@ -28,7 +28,7 @@ for var in $(squeue --me  | grep -v "CG" | grep -Eo "[0-9]{6}")
 do 
     if [ -e output_"$var".txt ]
         then
-        if [ $(cat output_"$var".txt | wc -l) -lt 2018 ]
+        if [ $(cat output_"$var".txt | grep -v Warning | grep -v In | grep -v will | wc -l) -lt 2017 ]
         then
             ((counter1++))
         fi
@@ -38,4 +38,4 @@ do
 done
 total=$(./get_number_expected.sh | tail -1 | awk '{print $8}')
 echo "There are "$counter" finished, "$counter1" running, $(expr "$counter3" - "$counter1") failed, and "$counter2" queued processes"
-echo "There are also $(expr "$total" - "$counter2" - "$counter1" - "$counter" - "$counter3" + "$counter1") processes waiting to be queued."
+echo "There are also $(expr "$total" - "$counter2" - "$counter1" - "$counter" - "$counter3" + "$counter1" + 1) processes waiting to be queued."
