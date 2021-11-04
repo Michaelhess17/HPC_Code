@@ -1,0 +1,79 @@
+Running Modol process on 20210219_0310_jRGECO1a_FGF9-Ncre-GAD36-4
+Cleaning outputs older than 5 minutes
+0
+Submitted batch 378866 for 20210221_jRGECO1a_FGF9-Ncre-GAD36-4_P13/P13_36-4ALBR_200_cell checking done
+1
+Submitted batch 378867 for 20210221_jRGECO1a_FGF9-Ncre-GAD36-4_P13/P13_36-4BL_180_cell checking done
+2
+Submitted batch 378868 for 20210221_jRGECO1a_FGF9-Ncre-GAD36-4_P13/P13_36-4BL_150_cell checking done
+3
+Submitted batch 378869 for 20210221_jRGECO1a_FGF9-Ncre-GAD36-4_P13/P13_36-4ALAR_location2_200_cell checking done
+4
+Submitted batch 378870 for 20210221_jRGECO1a_FGF9-Ncre-GAD36-4_P13/P13_36-4ALBR_150_cell checking done
+5
+Submitted batch 378871 for 20210221_jRGECO1a_FGF9-Ncre-GAD36-4_P13/P13_36-4ALAR_location2_150_cell checking done
+6
+Submitted batch 378872 for 20210221_jRGECO1a_FGF9-Ncre-GAD36-4_P13/P13_36-4AR_190_cell checking done
+7
+Submitted batch 378873 for 20210221_jRGECO1a_FGF9-Ncre-GAD36-4_P13/P13_36-4ALAR_200_cell checking done
+8
+Submitted batch 378874 for 20210221_jRGECO1a_FGF9-Ncre-GAD36-4_P13/P13_36-4ALAR_150_cell checking done
+9
+Submitted batch 378875 for 20210221_jRGECO1a_FGF9-Ncre-GAD36-4_P13/P13_36-4AR_150_cell checking done
+10
+Submitted batch 378876 for 20210219_jRGECO1a_FGF9-Ncre-GAD36-4_P11/P11_36-4ALAR_location2_200_cell checking done
+11
+Submitted batch 378877 for 20210219_jRGECO1a_FGF9-Ncre-GAD36-4_P11/P11_36-4ALAR_location2_140_cell checking done
+12
+Submitted batch 378878 for 20210219_jRGECO1a_FGF9-Ncre-GAD36-4_P11/P11_36-4AR_180_cell checking done
+13
+Submitted batch 378879 for 20210219_jRGECO1a_FGF9-Ncre-GAD36-4_P11/P11_36-4ALBR_180_cell checking done
+14
+Submitted batch 378880 for 20210219_jRGECO1a_FGF9-Ncre-GAD36-4_P11/P11_36-4BL_170_cell checking done
+15
+Submitted batch 378881 for 20210219_jRGECO1a_FGF9-Ncre-GAD36-4_P11/P11_36-4AR_120_cell checking done
+16
+Submitted batch 378882 for 20210219_jRGECO1a_FGF9-Ncre-GAD36-4_P11/P11_36-4ALAR_195_cell checking done
+17
+Submitted batch 378883 for 20210219_jRGECO1a_FGF9-Ncre-GAD36-4_P11/P11_36-4ALAR_140_cell checking done
+18
+Submitted batch 378884 for 20210219_jRGECO1a_FGF9-Ncre-GAD36-4_P11/P11_36-4BL_140_cell checking done
+19
+Submitted batch 378885 for 20210219_jRGECO1a_FGF9-Ncre-GAD36-4_P11/P11_36-4ALBR_130_cell checking done
+20
+Submitted batch 378886 for 20210310_jRGECO1a_FGF9-Ncre-GAD36-4_P30/P30_36-4ALAR_other location_180_cell checking done
+21
+Submitted batch 378887 for 20210310_jRGECO1a_FGF9-Ncre-GAD36-4_P30/P30_36-4ALAR_270_cell checking done
+22
+Submitted batch 378888 for 20210310_jRGECO1a_FGF9-Ncre-GAD36-4_P30/P30_36-4ALAR_180_cell checking done
+23
+Submitted batch 378889 for 20210310_jRGECO1a_FGF9-Ncre-GAD36-4_P30/P30_36-4ALAR_other location_300_cell checking done
+24
+Submitted batch 378890 for 20210301_jRGECO1a_FGF9-Ncre-GAD36-4_P21/P21_36-4ALAR_othe location_180_cell checking done
+25
+Submitted batch 378891 for 20210301_jRGECO1a_FGF9-Ncre-GAD36-4_P21/P21_36-4ALAR_280_cell checking done
+26
+Submitted batch 378892 for 20210301_jRGECO1a_FGF9-Ncre-GAD36-4_P21/P21_36-4ALAR_othe location_280_cell checking done
+27
+Submitted batch 378893 for 20210301_jRGECO1a_FGF9-Ncre-GAD36-4_P21/P21_36-4ALAR_180_cell checking done
+28
+Submitted batch 378894 for 20210223_jRGECO1a_FGF9-Ncre-GAD36-4_P15/P15_36-4BL_150_cell checking done
+29
+Submitted batch 378895 for 20210223_jRGECO1a_FGF9-Ncre-GAD36-4_P15/P15_36-4ALAR_other location_240_cell checking done
+30
+Submitted batch 378896 for 20210223_jRGECO1a_FGF9-Ncre-GAD36-4_P15/P15_36-4ALAR_other location_150_cell checking done
+31
+Submitted batch 378897 for 20210223_jRGECO1a_FGF9-Ncre-GAD36-4_P15/P15_36-4ALAR_150_cell checking done
+32
+Submitted batch 378898 for 20210223_jRGECO1a_FGF9-Ncre-GAD36-4_P15/P15_36-4ALAR_220_cell checking done
+33
+Submitted batch 378899 for 20210226_jRGECO1a_FGF9-Ncre-GAD36-4_P18/P18_36-4ALAR_other location_180_cell checking done
+34
+Submitted batch 378900 for 20210226_jRGECO1a_FGF9-Ncre-GAD36-4_P18/P18_36-4ALAR_190_cell checking done
+35
+Submitted batch 378901 for 20210226_jRGECO1a_FGF9-Ncre-GAD36-4_P18/P18_36-4ALAR_other location_250_cell checking done
+36
+Submitted batch 378902 for 20210226_jRGECO1a_FGF9-Ncre-GAD36-4_P18/P18_36-4ALAR_250_cell checking done
+afterok:378866:378867:378868:378869:378870:378871:378872:378873:378874:378875:378876:378877:378878:378879:378880:378881:378882:378883:378884:378885:378886:378887:378888:378889:378890:378891:378892:378893:378894:378895:378896:378897:378898:378899:378900:378901:378902
+Submitted batch job 378903
+Submitted batch 378903 for Summarization

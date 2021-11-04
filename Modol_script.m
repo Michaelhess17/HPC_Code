@@ -7,8 +7,7 @@ addpath 'Cossart Lab'
 %store_loc = strcat("~/.matlab/local_cluster_jobs/R2020a/", slurm_id);
 %mkdir(store_loc);
 %c.JobStorageLocation = store_loc;
-%c.NumWorkers = 32;
-parpool(64)
+parpool(32)
 %%
 path_char = char(path);
 if path_char(end) ~= '\' & path_char(end) ~= '/'
